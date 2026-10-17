@@ -1,0 +1,9 @@
+Robotics Expo 2026
+
+Robotics Expo is an event for students interested in robotics,
+embedded systems and automation.
+
+Activities include robot demonstration, technical presentation,
+robot programming and evaluation.
+
+Participants can explore autonomous robots and intelligent machines.

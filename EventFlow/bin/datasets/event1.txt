@@ -1,0 +1,10 @@
+National Hackathon 2026
+
+National Hackathon is a 24 hour coding competition for students.
+Participants develop innovative software solutions.
+The event contains registration, coding, evaluation and final presentation.
+
+Activities include coding challenge, artificial intelligence,
+machine learning, web development and cybersecurity.
+
+Students must complete registration before the coding competition begins.
